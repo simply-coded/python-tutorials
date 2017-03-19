@@ -8,3 +8,4 @@ Code from my YouTube series called "Python Tutorials (For Beginners)"
 [04 - Comments & Docstring](code/tutorial_04.py)  
 [05 - Identifier Rules](code/tutorial_05.py)  
 [06 - Number Data Types](code/tutorial_06.py)  
+[07 - String Data Type](code/tutorial_07.py)  
