@@ -6,3 +6,4 @@ Code from my YouTube series called "Python Tutorials (For Beginners)"
 [02 - Run a Python File](code/tutorial_02.py)  
 [03 - Statements & Blocks](code/tutorial_03.py)  
 [04 - Comments & Docstring](code/tutorial_04.py)  
+[05 - Identifier Rules](code/tutorial_05.py)  
