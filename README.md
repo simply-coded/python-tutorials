@@ -7,3 +7,4 @@ Code from my YouTube series called "Python Tutorials (For Beginners)"
 [03 - Statements & Blocks](code/tutorial_03.py)  
 [04 - Comments & Docstring](code/tutorial_04.py)  
 [05 - Identifier Rules](code/tutorial_05.py)  
+[06 - Number Data Types](code/tutorial_06.py)  
