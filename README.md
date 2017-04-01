@@ -11,3 +11,4 @@ Code from my YouTube series called "Python Tutorials (For Beginners)"
 [07 - String Data Type](code/tutorial_07.py)  
 [08 - Raw & Formatted Strings](code/tutorial_08.py)  
 [09 - Format Specification](code/tutorial_09.py)  
+[10 - Lists](code/tutorial_10.py)  
