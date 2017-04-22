@@ -16,3 +16,4 @@ Code from my YouTube series called "Python Tutorials (For Beginners)"
 [12 - Tuples](code/tutorial_12.py)  
 [13 - Sets](code/tutorial_13.py)  
 [14 - Dictionary](code/tutorial_14.py)  
+[15 - Arithmetic Operators](code/tutorial_15.py)  
