@@ -17,4 +17,4 @@ Code from my YouTube series called "Python Tutorials (For Beginners)"
 [13 - Sets](code/tutorial_13.py)  
 [14 - Dictionary](code/tutorial_14.py)  
 [15 - Arithmetic Operators](code/tutorial_15.py)  
-[16 - Arithmetic Operators](code/tutorial_16.py)  
+[16 - Bitwise Operators](code/tutorial_16.py)  
