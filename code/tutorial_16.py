@@ -8,9 +8,8 @@ b = 3
 # shifts bits left or right.
 #a << b = a * (2 ** b)
 print("Shift left operator: 5 << 3 =", a << b)
-
-print("Shift right operator: 5 >> 3 =", a >> b)
 #a >> b = a // (2 ** b)
+print("Shift right operator: 5 >> 3 =", a >> b)
 
 # convert letter to upper or lowercase.
 letr = ord('a')
