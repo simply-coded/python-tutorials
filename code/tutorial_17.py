@@ -22,6 +22,9 @@ val //= 2
 #modulo by 2 and save result
 val %= 2
 
+#change value to a new value
+val = 8
+
 #shift bits to the right by 2 and save result
 val >>= 2
 
