@@ -19,3 +19,4 @@ Code from my YouTube series called "Python Tutorials (For Beginners)"
 [15 - Arithmetic Operators](code/tutorial_15.py)  
 [16 - Bitwise Operators](code/tutorial_16.py)  
 [17 - Assignment Operators](code/tutorial_17.py)  
+[18 - Comparison Operators](code/tutorial_18.py)  
