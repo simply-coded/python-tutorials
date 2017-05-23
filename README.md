@@ -1,5 +1,5 @@
 # Python-Tutorials
-Code from my YouTube series called "Python Tutorials (For Beginners)"
+The code from my YouTube series called "Python Tutorials (For Beginners)". Interested? [Watch Here](https://www.youtube.com/playlist?list=PL72Es31dJnK6kW33A-jWMGT-5poLSwMjU)!
 
 ### Glossary
 [01 - Install Python](code/tutorial_01.md)  
