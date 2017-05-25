@@ -21,3 +21,4 @@ The code from my YouTube series called "Python Tutorials (For Beginners)". Inter
 [17 - Assignment Operators](code/tutorial_17.py)  
 [18 - Comparison Operators](code/tutorial_18.py)  
 [19 - Membership & Identity Operators](code/tutorial_19.py)  
+[20 - Logical Operators](code/tutorial_20.py)  
