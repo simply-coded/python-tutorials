@@ -18,6 +18,7 @@ elif counted > actual:
 elif counted < actual:
     if counted < 0:
         print('negative input. please check again')
+        is_invalid = True
     else:
         print('missing items')
 else:
