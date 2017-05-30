@@ -22,3 +22,5 @@ The code from my YouTube series called "Python Tutorials (For Beginners)". Inter
 [18 - Comparison Operators](code/tutorial_18.py)  
 [19 - Membership & Identity Operators](code/tutorial_19.py)  
 [20 - Logical Operators](code/tutorial_20.py)  
+[21 - If Statements](code/tutorial_21.py)  
+[22 - Ternary Operator](code/tutorial_22.py)  
