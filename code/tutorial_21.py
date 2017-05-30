@@ -22,7 +22,7 @@ elif counted < actual:
     else:
         print('missing items')
 else:
-    print('invalid input')
+    print('invalid input. please check again')
     is_invalid = True
 
 
