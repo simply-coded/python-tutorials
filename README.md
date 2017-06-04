@@ -26,3 +26,4 @@ The code from my YouTube series called "Python Tutorials (For Beginners)". Inter
 [22 - Ternary Operator](code/tutorial_22.py)  
 [23 - User Input](code/tutorial_23.py)  
 [24 - Conditional Loops](code/tutorial_24.py)  
+[25 - Iterative Loops](code/tutorial_25.py)  
