@@ -28,3 +28,4 @@ The code from my YouTube series called "Python Tutorials (For Beginners)". Inter
 [24 - Conditional Loops](code/tutorial_24.py)  
 [25 - Iterative Loops](code/tutorial_25.py)  
 [26 - Comprehension & Nested Loops](code/tutorial_26.py)  
+[27 - Generator Expressions](code/tutorial_27.py)  
