@@ -30,6 +30,6 @@ The code from my YouTube series called "Python Tutorials (For Beginners)". Inter
 [26 - Comprehension & Nested Loops](code/tutorial_26.py)  
 [27 - Generator Expressions](code/tutorial_27.py)  
 [28 - Command Line Arguments](code/tutorial_28.py)  
-[29 - Functions](code/tutorial_29.py)  
+[29 - Functions - Global](code/tutorial_29.py)  
 [30 - Functions - Avoiding globals](code/tutorial_30.py)  
 [31 - Functions - Return](code/tutorial_31.py)  
