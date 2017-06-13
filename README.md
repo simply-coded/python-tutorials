@@ -32,3 +32,4 @@ The code from my YouTube series called "Python Tutorials (For Beginners)". Inter
 [28 - Command Line Arguments](code/tutorial_28.py)  
 [29 - Functions](code/tutorial_29.py)  
 [30 - Functions - Avoiding globals](code/tutorial_30.py)  
+[31 - Functions - Return](code/tutorial_31.py)  
