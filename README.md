@@ -34,3 +34,4 @@ The code from my YouTube series called "Python Tutorials (For Beginners)". Inter
 [30 - Functions - Avoiding globals](code/tutorial_30.py)  
 [31 - Functions - Return](code/tutorial_31.py)  
 [32 - Functions - Argument Types](code/tutorial_32.py)  
+[33 - Lambda](code/tutorial_33.py)  
