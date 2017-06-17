@@ -34,5 +34,5 @@ The code used in my video series. Interested? [Watch Here](https://www.youtube.c
 [30 - Functions - Avoiding globals](code/tutorial_30.py)  
 [31 - Functions - Return](code/tutorial_31.py)  
 [32 - Functions - Argument Types](code/tutorial_32.py)  
-[33 - Generator Function](code/tutorial_33.py)  
+[33 - Generator Functions](code/tutorial_33.py)  
 [34 - Lambdas](code/tutorial_34.py)  
