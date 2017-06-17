@@ -35,3 +35,4 @@ The code used in my video series. Interested? [Watch Here](https://www.youtube.c
 [31 - Functions - Return](code/tutorial_31.py)  
 [32 - Functions - Argument Types](code/tutorial_32.py)  
 [33 - Lambda](code/tutorial_33.py)  
+[34 - Random](code/tutorial_34.py)  
