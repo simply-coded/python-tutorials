@@ -36,3 +36,4 @@ The code used in my video series. Interested? [Watch Here](https://www.youtube.c
 [32 - Functions - Argument Types](code/tutorial_32.py)  
 [33 - Generator Functions](code/tutorial_33.py)  
 [34 - Lambdas](code/tutorial_34.py)  
+[35 - Random Numbers & Challenge](code/tutorial_35.py)  
