@@ -1,6 +1,6 @@
 """I'm a docstring
 
-  I describe what this file is
+I describe what this file is
 """
 
 # I'm a comment.
