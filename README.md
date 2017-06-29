@@ -37,4 +37,4 @@ The code used in my video series. Interested? [Watch Here](https://www.youtube.c
 [33 - Generator Functions](code/tutorial_33.py)  
 [34 - Lambdas](code/tutorial_34.py)  
 [35 - Random Numbers & Challenge](code/tutorial_35.py)  
-[36 - Scope](code/tutorial_35.py)  
+[36 - Scope](code/tutorial_36.py)  
