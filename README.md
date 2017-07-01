@@ -39,3 +39,4 @@ The code used in my video series. Interested? [Watch Here](https://www.youtube.c
 [35 - Random Numbers & Challenge](code/tutorial_35.py)  
 [36 - Scope](code/tutorial_36.py)  
 [37 - Inner Functions & Challenge Answer](code/tutorial_37.py)  
+[38 - Name Binding & @Decorators](code/tutorial_38.py)  
