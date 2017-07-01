@@ -71,9 +71,8 @@ print(result_2)
 print(sum_to_2(20_000_000))
 
 
-# Some simpler examples that don't make sense but is allowed.
 # -------------------------------------------------------------------------------------------
-# use regular factory function ( this is normal )
+# recap on regular factory function
 def make_greet_1():
     
     def greet(name):
@@ -85,8 +84,9 @@ def make_greet_1():
 test_1 = make_greet_1()
 test_1('jeremy')
 
+# some simpler examples that don't make sense but is allowed
 # -------------------------------------------------------------------------------------------
-# use decorator which inputs the current function, despite not using the inputed function ( not normal )
+# use decorator which inputs the current function, despite not using the inputed function
 def make_greet_2(function):
     
     def greet(name):
