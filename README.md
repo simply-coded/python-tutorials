@@ -40,3 +40,4 @@ The code used in my video series. Interested? [Watch Here](https://www.youtube.c
 [36 - Scope](code/tutorial_36.py)  
 [37 - Inner Functions & Challenge Answer](code/tutorial_37.py)  
 [38 - Name Binding & @Decorators](code/tutorial_38.py)  
+[39 - Classes - intro](code/tutorial_39.py)  
